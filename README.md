@@ -1,3 +1,4 @@
 # hello-world
 test repository
-I am checking how this works
+testing functionalities
+adding a new commit
